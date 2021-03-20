@@ -1,0 +1,152 @@
+{ "general":[{
+        "rank": "1",
+        "link": "nikol",
+        "img": "https://i.ibb.co/8smS53R/img-1-1.jpg",
+        "firstName": "Նիկոլ",
+        "lastName": "Փաշինյան",
+        "netWorth": "90.1 մլն դոլլար",
+        "age": "50",
+        "cityBorn": "Իջևան",
+        "position": "Վարչապետ",
+        "proffesion": "Լրագրող",
+        "party": "«Քաղաքացիական պայմանագիր»",
+        "biography": " "
+        
+        },
+
+        {
+          "rank": "2",
+           "link": "ararat",
+          "img": "https://i.ibb.co/3dxKSyz/img-4.jpg",
+          "firstName": "Արարատ",
+          "lastName": "Միրզոյան",
+          "netWorth": "60 մլն դոլլար",
+          "age": "42",
+          "cityBorn": "Երևան",
+          "position": "ԱԺ նախագահ",
+          "proffesion": "Պատմաբան",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+
+        {
+          "rank": "3",
+          "link": "tigran",
+          "img": "https://i.ibb.co/5GPBF4k/img-2.jpg",
+          "firstName": "Տիգրան",
+          "lastName": "Ավինյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "32",
+          "cityBorn": "Երևան",
+          "position": "Փոխվարչապետ",
+          "proffesion": "Լրագրող",
+          "party": " "
+          
+          },
+{
+          "rank": "4",
+           "link": "alen",
+          "img": "https://i.ibb.co/zs5PbyN/img-3.jpg",
+          "firstName": "Ալեն",
+          "lastName": "Սիմոնյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "32",
+          "cityBorn": "Երևան",
+          "position": "Աժ նախագահի տեղակալ",
+          "proffesion": "Լրագրող",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "rank": "5",
+          "link": "hayk",
+          "img": "https://i.ibb.co/4YjWJH4/img-5.jpg",
+          "firstName": "Հայկ",
+          "lastName": "Սարգսյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "32",
+          "cityBorn": "Երևան",
+          "position": "Պատգամավոր",
+          "proffesion": "Հաշվապահ",
+          "party": " "
+          
+          },
+{
+          "rank": "6",
+        "link": "lena",
+          "img": "https://i.ibb.co/Yb2bmR4/img-6.jpg",
+          "firstName": "Լենա",
+          "lastName": "Նազարյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "38",
+          "cityBorn": "Երևան",
+          "position": "Պատգամավոր",
+          "proffesion": "Հաշվապահ",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": ""
+          
+          },
+{
+          "rank": "7",
+        "link": "lusine",
+          "img": "https://i.ibb.co/JnML55Q/img-7.jpg",
+          "firstName": "Լուսինե",
+          "lastName": "Բադալյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "41",
+          "cityBorn": "Երևան",
+          "position": "Պատգամավոր",
+          "proffesion": "Պատմաբան, Հաղորդավար",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "rank": "8",
+        "link": "suren",
+          "img": "https://i.ibb.co/ryFPQ9H/img-9.jpg",
+          "firstName": "Սուրեն",
+          "lastName": "Գրիգորյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "29",
+          "cityBorn": "Երևան",
+          "position": "Պատգամավոր",
+          "proffesion": "Իրավագետ",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "rank": "9",
+        "link": "sisak",
+          "img": "https://i.ibb.co/Bn4xWY0/img-8.jpg",
+          "firstName": "Սիսակ",
+          "lastName": "Գաբրիելյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "35",
+          "cityBorn": "Երևան",
+          "position": "Պատգամավոր",
+          "proffesion": "Լրագրող",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          },
+{
+          "rank": "10",
+        "link": "arpine",
+          "img": "https://i.ibb.co/hFQJWdj/img-10.jpg",
+          "firstName": "Արփինե",
+          "lastName": "Դավոյան",
+          "netWorth": "55 մլն դոլլար",
+          "age": "36",
+          "cityBorn": "Ստեփանավան",
+          "position": "Պատգամավոր",
+          "proffesion": "Մանկավարժ-հոգեբան",
+          "party": "«Քաղաքացիական պայմանագիր»",
+          "biography": " "
+          
+          }
+      ]
+  }
