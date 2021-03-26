@@ -16,6 +16,7 @@
         },
 
         {
+          "facebook": "https://www.facebook.com/President.Parliament.AM",                
           "rank": "2",
            "link": "ararat",
           "img": "https://i.ibb.co/3dxKSyz/img-4.jpg",
@@ -33,6 +34,7 @@
 
         {
           "rank": "3",
+           "facebook": "https://www.facebook.com/tigran.avinyan",
           "link": "tigran",
           "img": "https://i.ibb.co/5GPBF4k/img-2.jpg",
           "firstName": "Տիգրան",
@@ -47,6 +49,7 @@
           },
 {
           "rank": "4",
+        "facebook": "https://www.facebook.com/simonyanalen",
            "link": "alen",
           "img": "https://i.ibb.co/zs5PbyN/img-3.jpg",
           "firstName": "Ալեն",
@@ -62,6 +65,7 @@
           },
 {
           "rank": "5",
+        "facebook": "https://www.facebook.com/hayk.sargsyan.585",
           "link": "hayk",
           "img": "https://i.ibb.co/4YjWJH4/img-5.jpg",
           "firstName": "Հայկ",
@@ -76,6 +80,7 @@
           },
 {
           "rank": "6",
+        "facebook": "https://www.facebook.com/lenazarian",
         "link": "lena",
           "img": "https://i.ibb.co/Yb2bmR4/img-6.jpg",
           "firstName": "Լենա",
@@ -91,6 +96,7 @@
           },
 {
           "rank": "7",
+        "facebook": "https://www.facebook.com/lusine.badalyan.58",
         "link": "lusine",
           "img": "https://i.ibb.co/JnML55Q/img-7.jpg",
           "firstName": "Լուսինե",
@@ -106,6 +112,7 @@
           },
 {
           "rank": "8",
+        "facebook": "https://www.facebook.com/suren.grigoryan.3",
         "link": "suren",
           "img": "https://i.ibb.co/ryFPQ9H/img-9.jpg",
           "firstName": "Սուրեն",
@@ -121,6 +128,7 @@
           },
 {
           "rank": "9",
+        "facebook": "https://www.facebook.com/sisak.gabrielyan",
         "link": "sisak",
           "img": "https://i.ibb.co/Bn4xWY0/img-8.jpg",
           "firstName": "Սիսակ",
@@ -136,6 +144,7 @@
           },
 {
           "rank": "10",
+        "facebook": "https://www.facebook.com/arpid",
         "link": "arpine",
           "img": "https://i.ibb.co/hFQJWdj/img-10.jpg",
           "firstName": "Արփինե",
