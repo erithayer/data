@@ -9,7 +9,7 @@
         "age": "50",
         "cityBorn": "Իջևան",
         "position": "Վարչապետ",
-        "position2": {"first": "varchapet", "second": "apush"},
+        "position2": ["first": "varchapet", "second": "apush"],
         "proffesion": "Լրագրող",
         "party": "«Քաղաքացիական պայմանագիր»",
         "biography": " "
